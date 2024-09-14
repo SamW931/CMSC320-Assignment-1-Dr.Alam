@@ -11,3 +11,14 @@ Answer: Data science can be applied to economics. An example could be get data o
 kinds of items people are buying online and in-stores, and use that data to make
 predictions about how the stock market could change or just to analyze what items are
 in high or low demand at the time.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Both merging and rebasing combines two branches onto one.
+My understanding is that merging takes the last state of both branches and combines them into one.
+Whereas rebasing sequentially adds each commit from one branch onto the end of the other.
+With rebase you could also ignore certain commits from one branch, which you cannot do with merge.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: How to create/manage/access databases. Some familiarity with Git. Understand SQL.
