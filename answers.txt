@@ -1,0 +1,6 @@
+Q1: Why might be consider using git?
+
+Answer: Git is useful for team/group projects or in other situations where
+there may be multiple different people making changes to code. It makes it easier for
+multiple people to simultaneously make different changes without interfering with
+eachother as much.
