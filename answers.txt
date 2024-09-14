@@ -4,3 +4,10 @@ Answer: Git is useful for team/group projects or in other situations where
 there may be multiple different people making changes to code. It makes it easier for
 multiple people to simultaneously make different changes without interfering with
 eachother as much.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be applied to economics. An example could be get data on what
+kinds of items people are buying online and in-stores, and use that data to make
+predictions about how the stock market could change or just to analyze what items are
+in high or low demand at the time.
